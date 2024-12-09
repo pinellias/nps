@@ -5,7 +5,7 @@
 ![Release](https://github.com/ehang-io/nps/workflows/Release/badge.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/ehang-io/nps/total)
 
-[README](https://github.com/ehang-io/nps/blob/master/README.md)|[中文文档](https://github.com/ehang-io/nps/blob/master/README_zh.md)
+[README](https://github.com/ehang-io/nps/blob/master/README_en.md)|[中文文档](https://github.com/ehang-io/nps/blob/master/README.md)
 
 NPS is a lightweight, high-performance, powerful **intranet penetration** proxy server, with a powerful web management terminal.
 
